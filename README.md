@@ -9,7 +9,6 @@ The **Task Management System (To-Do App)** is a simple web application that allo
 -  Delete tasks
 -  Mark tasks as completed
 -  Responsive and user-friendly UI
--  Light/Dark mode support (Optional Feature)
 
 ##  Technologies Used
 - **HTML** - Structure of the application
