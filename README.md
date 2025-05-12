@@ -39,10 +39,6 @@ To-Do-List/
 │── script.js       # JavaScript logic
 └── images/         # Folder for images/icons (if any)
 
-
-
-
-
 ##  Future Enhancements
 -  Task deadlines and reminders
 -  Task analytics (Completed vs Pending)
