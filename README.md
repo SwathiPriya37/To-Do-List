@@ -8,7 +8,7 @@ The **Task Management System (To-Do App)** is a simple web application that allo
 -  Edit tasks
 -  Delete tasks
 -  Mark tasks as completed
--  Responsive and user-friendly UI
+-  Responsive and simple user-friendly UI
 
 ##  Technologies Used
 - **HTML** - Structure of the application
