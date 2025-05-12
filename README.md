@@ -38,9 +38,9 @@ To-Do-List/
 │── style.css       # Stylesheet
 │── script.js       # JavaScript logic
 └── images/         # Folder for images/icons (if any)
-```
 
-##  Screenshots 
+
+
 
 
 ##  Future Enhancements
