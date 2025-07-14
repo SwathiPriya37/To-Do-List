@@ -38,6 +38,7 @@ To-Do-List/
 │── style.css       # Stylesheet
 │── script.js       # JavaScript logic
 └── images/         # Folder for images/icons (if any)
+```
 
 ##  Future Enhancements
 -  Task deadlines and reminders
